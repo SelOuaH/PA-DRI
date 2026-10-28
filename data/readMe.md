@@ -1,1 +1,1 @@
-
+Seven-dimensional PA-DRI scoring matrix for 12 precision-apiculture datasets. Each dataset is assigned ordinal scores (0–2) for accessibility, machine readability, scale adequacy, quality/completeness, diversity/representativeness, task alignment, and deployment/longitudinal utility. The file also records dataset modality and group membership (legacy or newly added) and serves as the input for reproducing the manuscript's quantitative results.
